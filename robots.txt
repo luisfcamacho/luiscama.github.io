@@ -11,7 +11,7 @@ https://www.herbalife.co.kr/content/herbalifenutrition/apac/ko_kr.sitemap.xml
 https://www.herbalife.com.ph/content/herbalifenutrition/apac/en_ph.sitemap.xml
 https://www.herbalife.com.sg/content/herbalifenutrition/apac/en_sg.sitemap.xml
 https://www.herbalife.com.tw/content/herbalifenutrition/apac/zh_tw.sitemap.xml
-https://herbalife.co.th/content/herbalifenutrition/apac/en_th.sitemap.xml
+https://www.herbalife.co.th/content/herbalifenutrition/apac/en_th.sitemap.xml
 https://www.herbalife.co.th/content/herbalifenutrition/apac/th_th.sitemap.xml
 https://www.herbalife-vietnam.com/content/herbalifenutrition/apac/vi_vn.sitemap.xml
 https://www.herbalife.com.br/content/herbalifenutrition/brazil/pt_br.sitemap.xml
@@ -23,7 +23,7 @@ https://www.herbalife.co.bw/content/herbalifenutrition/emea/en_bw.sitemap.xml
 https://www.herbalife.bg/content/herbalifenutrition/emea/bg_bg.sitemap.xml
 https://www.herbalife.hr/content/herbalifenutrition/emea/hr_hr.sitemap.xml
 https://www.herbalife.com.cy/content/herbalifenutrition/emea/el_cy.sitemap.xml
-https://herbalife.cz/content/herbalifenutrition/emea/cs_cz.sitemap.xml
+https://www.herbalife.cz/content/herbalifenutrition/emea/cs_cz.sitemap.xml
 https://www.herbalife.dk/content/herbalifenutrition/emea/da_dk.sitemap.xml
 https://www.herbalife.fi/content/herbalifenutrition/emea/fi_fi.sitemap.xml
 https://www.herbalifefrance.fr/content/herbalifenutrition/emea/fr_fr.sitemap.xml
@@ -32,7 +32,7 @@ https://www.herbalifeghana.com/content/herbalifenutrition/emea/en_gh.sitemap.xml
 https://www.herbalife.gr/content/herbalifenutrition/emea/el_gr.sitemap.xml
 https://www.herbalife.hu/content/herbalifenutrition/emea/hu_hu.sitemap.xml
 https://www.herbalife.is/content/herbalifenutrition/emea/is_is.sitemap.xml
-https://herbalife.co.in/content/herbalifenutrition/emea/en_in.sitemap.xml
+https://www.herbalife.co.in/content/herbalifenutrition/emea/en_in.sitemap.xml
 https://www.herbalife.ie/content/herbalifenutrition/emea/en_ie.sitemap.xml
 https://www.herbalife.it/content/herbalifenutrition/emea/it_it.sitemap.xml
 https://www.herbalife-lebanon.com/content/herbalifenutrition/emea/en_lb.sitemap.xml
